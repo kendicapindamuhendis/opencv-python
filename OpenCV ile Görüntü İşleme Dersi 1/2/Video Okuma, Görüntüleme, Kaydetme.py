@@ -38,18 +38,7 @@ cv2.destroyAllWindows()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#----------------------------------------------------------------
 
 
 # cam = cv2.VideoCapture("drone.mp4")
@@ -74,20 +63,7 @@ cv2.destroyAllWindows()
 # cam.release()
 # cv2.destroyAllWindows()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#----------------------------------------------------------------
 
 
 
@@ -124,3 +100,4 @@ cv2.destroyAllWindows()
     
 # cam.release()
 # cv2.destroyAllWindows()
+#----------------------------------------------------------------
