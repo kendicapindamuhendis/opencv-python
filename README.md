@@ -11,7 +11,7 @@ MUSTAFA ÜNLÜ
 
 ////////////////////////////////////////////////////////////////
 
-O# OPENCV KURULUMU
+# OPENCV KURULUMU
 
 ### Metod1:
 	sudo apt-get install python-opencv
