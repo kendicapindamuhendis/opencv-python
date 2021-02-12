@@ -131,3 +131,12 @@ Raspberry Pi için:
 
 https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
 
+
+# Kaynaklar:
+
+
+[opencv tutorial](https://docs.opencv.org/trunk/d6/d00/tutorial_py_root.html)
+
+[python&opencv örnek uygulamalar](https://www.pyimagesearch.com/)
+
+[Kendi Çapında Mühendis Youtube](https://www.youtube.com/channel/UCPRVTWjGKrByBG_1HpheRVA/)
