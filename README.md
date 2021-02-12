@@ -13,6 +13,8 @@ MUSTAFA ÜNLÜ
 
 # OPENCV KURULUMU
 
+windows için; pip install python-opencv
+
 ### Metod1:
 	sudo apt-get install python-opencv
 Komut ile Opencv Kurulması Halinde python2 için Linux'ta kamera fonksiyonu çalışmayacaktır. python3 için bu yöntem ile kurulum gerçekleştirilebilir. Windows içinde bu yöntem kullanılabilir.
